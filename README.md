@@ -66,7 +66,7 @@
 
 ## Overview
 
-The COVID Screening Portal was developed to streamline the daily health screening process for employees at [Organization Name], ensuring a safe working environment during the pandemic.
+The COVID Screening Portal was developed in 2021 to streamline the daily health screening process for employees at my organisation, ensuring a safe working environment during the pandemic.
 
 ## Problem
 
@@ -74,7 +74,7 @@ Prior to the portal, manual screening processes were time-consuming, prone to er
 
 ## Solution
 
-The portal automated the process for staff and students to do a self-daily health screening process prior to being granted access to the campus through custom forms and Power Automate workflows, enabling real-time symptom tracking, automated alerts for health anomalies, and data-driven decisions to maintain workplace safety. The solution was integrated with SharePoint for secure record-keeping and campus access management. 
+The portal automated the process for staff and students to do a self-daily health screening process prior to being granted access to the campus through custom forms and Power Automate workflows, enabling real-time symptom tracking, automated alerts for health anomalies, and data-driven decisions to maintain workplace safety. The solution was integrated with SharePoint for secure record-keeping and campus access management. It facilitated the identification of suspected positive cases through the questionnaire responses, alerting campus clinic administrators and security personnels for immediate follow-up. Additionally, the system incorporated a robust validation mechanism, ensuring access to campus facilities was conditionally granted based on the accurate verification of staff and student identities against the organization's database.
 
 > **Technologies Used**
 >
@@ -85,11 +85,11 @@ The portal automated the process for staff and students to do a self-daily healt
 
 ## Impact
 
-The portal significantly enhanced operational efficiency by reducing screening times by **75%** and improved health guideline compliance by **90%**. It also enabled the organization to swiftly respond to potential health threats, ensuring the safety and well-being of all employees and students.
+The portal significantly enhanced operational efficiency by reducing screening times by **75%** and improved health guideline compliance by **90%**. It also enabled the organization to swiftly respond to potential health threats, ensuring the safety and well-being of all employees and students. Moreover, the system streamlined the management of campus access, effectively reducing the risk of COVID-19 transmission by automating the enforcement of health and safety protocols.
 
 ## Reflections and Learning Outcomes
 
-This project highlights the importance of leveraging automation and data analytics in crisis management. It honed my skills in developing intuitive user interfaces and automating complex workflows, contributing to my expertise in digital health solutions.
+This project highlights the importance of leveraging automation and data analytics in crisis management. The development and implementation of this Self Screening Portal did not only solve a pressing organizational challenge but also served as a valuable learning experienceIt honed my skills in developing intuitive user interfaces and automating complex workflows, contributing to my expertise in digital health solutions and reinforcing my commitment to leveraging technology for societal benefit.
 
 ## Conclusion
 
