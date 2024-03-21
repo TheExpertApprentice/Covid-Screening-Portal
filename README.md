@@ -112,7 +112,7 @@ Design a dynamic health screening questionnaire based on the SA National Health 
 > 1. **Sign in and Create a New Form:**
 >     - Go to [Microsoft Forms](https://forms.microsoft.com) and sign in with your Microsoft account.
 >     - Click on ***‘New Form’*** to start creating your health screening questionnaire.
-
+>
 > 2. **Name Your Form:**
 >    - Provide a title for your form such as "COVID-19 Self Screening Portal".
 >    - Add a description below the title if necessary.
@@ -127,31 +127,31 @@ Design a dynamic health screening questionnaire based on the SA National Health 
 >    - Remember to use dropdown list to organise the options in question 9. Click on the ***'Choice'*** question type and then select the ***'...'*** or ***'More options'*** icon to change to ***'Dropdown'***. This will help in organizing the data effectively and preventing free-text variations.
 
 > 4. **Customize Settings:**
-    - Click on the ***‘...’*** or ***'More form settings'*** (often represented by three dots or a gear icon) to access settings.
-    - Adjust settings for things like who can fill out the form, whether multiple responses are allowed, or if respondents can see summary results.
+>     - Click on the ***‘...’*** or ***'More form settings'*** (often represented by three dots or a gear icon) to access settings.
+>     - Adjust settings for things like who can fill out the form, whether multiple responses are allowed, or if respondents can see summary results.
 
 > 5. **Set Up Branching Logic (Important for question 2):**
-    - In your form, locate the question where you want to add branching. For example: ***"Are you a Staff/Student?"***
-    - Click on the ***'...'*** or ***'More options'*** icon on the bottom right of the question box and select ***'Add Branching'***.
-    - For each option in the question, determine the subsequent question that the respondent should be directed to. Based on the image:
-    - If the respondent selects ***"Staff,"*** they will be directed to the question asking for their ***"Staff number."***
-    - If ***"Student"*** is selected, the flow will take them to a different question to enter their ***"Student number."***
-    - And if they choose ***"Other,"*** they should be directed to provide their ***"Identification number."***
-    - Ensure that branching is set up correctly by clicking on the ***'Branching options'*** to review the pathways for each answer choice.
-    - Test the branching logic by previewing the form and selecting different options to see if you are taken to the correct subsequent question.
-    - Click on the ***'Required'*** toggle to make sure respondents must answer the question before proceeding, which is critical for gathering complete data sets.
+>     - In your form, locate the question where you want to add branching. For example: ***"Are you a Staff/Student?"***
+>     - Click on the ***'...'*** or ***'More options'*** icon on the bottom right of the question box and select ***'Add Branching'***.
+>     - For each option in the question, determine the subsequent question that the respondent should be directed to. Based on the image:
+>     - If the respondent selects ***"Staff,"*** they will be directed to the question asking for their ***"Staff number."***
+>     - If ***"Student"*** is selected, the flow will take them to a different question to enter their ***"Student number."***
+>     - And if they choose ***"Other,"*** they should be directed to provide their ***"Identification number."***
+>     - Ensure that branching is set up correctly by clicking on the ***'Branching options'*** to review the pathways for each answer choice.
+>     - Test the branching logic by previewing the form and selecting different options to see if you are taken to the correct subsequent question.
+>     - Click on the ***'Required'*** toggle to make sure respondents must answer the question before proceeding, which is critical for gathering complete data sets.
 
 > 6. **Design and Theme:**
-    - Use the ***‘Theme’*** option at the top of the form to choose a color scheme or upload a background image to align with your organization's branding.
+>     - Use the ***‘Theme’*** option at the top of the form to choose a color scheme or upload a background image to align with your organization's branding.
 
 > 7. **Review and Test:**
-    - Review your form for clarity and completeness.
-    - Send a preview link to yourself or a colleague to test the form’s functionality and ensure that all questions are correctly formatted and that branching logic works as intended.
+>     - Review your form for clarity and completeness.
+>     - Send a preview link to yourself or a colleague to test the form’s functionality and ensure that all questions are correctly formatted and that branching logic works as intended.
 
 > 8. **Share Your Form:**
-    - Once you are satisfied with the form, click on ***‘Share’*** at the top right.
-    - Choose how you want to distribute your form (link, QR code, email, or embed into a website).
-    - Copy the link or select the appropriate option to distribute the form to your intended audience.
+>     - Once you are satisfied with the form, click on ***‘Share’*** at the top right.
+>     - Choose how you want to distribute your form (link, QR code, email, or embed into a website).
+>     - Copy the link or select the appropriate option to distribute the form to your intended audience.
 
 > Image Placeholder for Step-by-Step Guide
 
