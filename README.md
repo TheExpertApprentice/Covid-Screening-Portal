@@ -58,12 +58,6 @@
 
 
 
-
-
-
-
-# COVID-19 Self Screening Portal
-
 ## Overview
 
 The COVID Screening Portal was developed in 2021 to streamline the daily health screening process for employees at my organisation, ensuring a safe working environment during the pandemic.
@@ -98,6 +92,10 @@ The COVID Screening Portal was pivotal in maintaining a safe workplace during th
 ## Acknowledgments
 
 I would like to give credit to the IT team and the VUT Clinic who collaboratively provided guidance, advice, collaboration, or feedback for improvement where necessary.
+
+## Improvement
+
+For organizational validation, the system grants access by authenticating staff or student numbers, thus ensuring a secure and reliable verification process. This required the implementation of a robust synchronization mechanism with the organization's HR and student databases to frequently update and maintain the accuracy of the user base. This critical feature ensured that only current employees and students could access campus facilities, enhancing the security and effectiveness of the health screening process. In addition, the integration of access control system could be beneficial.
 
 ---
 
