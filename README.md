@@ -9,10 +9,9 @@
 <p align="center">
   <!-- COVID-19 Self Screening Portal Image -->
   <a href="LINK_TO_MORE_INFO">
-    <img src="[PLACEHOLDER_FOR_COVID_PORTAL_IMAGE.png" alt="COVID-19 Self Screening Portal](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/portal%20image2.PNG)">
+    <img src="![Screenshot 1](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/1.png)">
   </a>
 </p>
-<br>
 
 <div align="center">
  <b><code><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F39835F0&background=FFE66F00&vCenter=true&random=false&width=435&lines=+Stay+Safe,+Keep+Screening!" alt="Typing SVG" /></a></code></b>
@@ -46,14 +45,14 @@
 
 <p align="center">
   <!-- Social Media or Contact Links, if any -->
-  <a href="YOUR_SOCIAL_MEDIA_OR_CONTACT_LINK" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_SOCIAL_MEDIA_HANDLE.svg?logo=twitter">
-  </a>
+  <a href="https://www.linkedin.com/in/cnejike">
+    <img src="https://img.shields.io/badge/LinkedIn-cnejike-blue?style=social&logo=linkedin">
+</a>
 </p>
 
 <div align="center">
   <sub>Created by
-  <a href="LINK_TO_CREATOR_PROFILE">Your Name or Organization</a>
+  <a href="LINK_TO_CREATOR_PROFILE">Ejike Chris</a>
 </div>
 
 <br>
