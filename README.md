@@ -9,7 +9,7 @@
 <p align="center">
   <!-- COVID-19 Self Screening Portal Image -->
   <a href="LINK_TO_MORE_INFO">
-    <img src="PLACEHOLDER_FOR_COVID_PORTAL_IMAGE.png" alt="COVID-19 Self Screening Portal">
+    <img src="[PLACEHOLDER_FOR_COVID_PORTAL_IMAGE.png" alt="COVID-19 Self Screening Portal](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/portal%20image2.PNG)">
   </a>
 </p>
 <br>
