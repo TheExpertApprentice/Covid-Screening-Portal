@@ -104,7 +104,7 @@ For organizational validation, the system grants access by authenticating staff 
 
 # Step by Step Visual Guide
 
-## Create a Health Screening Form
+## 1. Create a Health Screening Form
 
 ### Objective
 
@@ -183,7 +183,7 @@ Proceed with other questions.
 
 
 
-## Set Up SharePoint Site
+## 2. Set Up SharePoint Site
 
 ### Objective
 
