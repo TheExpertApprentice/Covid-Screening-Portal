@@ -72,8 +72,8 @@ The portal automated the process for staff and students to do a self-daily healt
 
 > **Technologies Used**
 >
-> - ![Microsoft Forms Icon](link_to_forms_icon.png) **Microsoft Forms:** For creating dynamic screening questionnaires.
-> - ![Power Automate Icon](link_to_power_automate_icon.png) **Microsoft Power Automate:** For automating data collection, analysis, and alerting processes.
+> - ![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-0078D4?style=for-the-badge&logo=microsoftforms&logoColor=white) **Microsoft Forms:** For creating dynamic screening questionnaires.
+> - ![Power Automate Icon](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) **Microsoft Power Automate:** For automating data collection, analysis, and alerting processes.
 > - ![SharePoint Icon](link_to_sharepoint_icon.png) **SharePoint:** For secure and centralized storage of health screening records and management of access permissions.
 > - ![Custom Integration Icon](link_to_custom_integration_icon.png) **Custom Integration:** For validating staff and student identities against the organization's database to ensure accurate tracking and reporting.
 
