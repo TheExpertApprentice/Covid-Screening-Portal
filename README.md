@@ -2,16 +2,16 @@
   <h1>COVID-19 Self Screening Portal</h1>
 </div>
 
-<div align="center">
- <b><code>Insights on developing and managing a COVID-19 self-screening solution for workplace safety.</code></b>
-</div>
-
 <p align="center">
   <!-- COVID-19 Self Screening Portal Image -->
   <a href="LINK_TO_MORE_INFO">
-    <img src="![Screenshot 1](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/1.png)">
+    <img src="https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/portal%20image2.PNG" alt="COVID-19 Self Screening Portal Screenshot">
   </a>
 </p>
+
+<div align="center">
+ <b><code>Insights on developing and managing a COVID-19 self-screening solution for workplace safety.</code></b>
+</div>
 
 <div align="center">
  <b><code><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F39835F0&background=FFE66F00&vCenter=true&random=false&width=435&lines=+Stay+Safe,+Keep+Screening!" alt="Typing SVG" /></a></code></b>
