@@ -6,17 +6,18 @@
  <b><code>Insights on developing and managing a COVID-19 self-screening solution for workplace safety.</code></b>
 </div>
 
-<div align="center">
- <b><code><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F39835F0&background=FFE66F00&vCenter=true&random=false&width=435&lines=+Stay+Safe,+Keep+Screening!" alt="Typing SVG" /></a></code></b>
-</div>
-<br>
-
 <p align="center">
   <!-- COVID-19 Self Screening Portal Image -->
   <a href="LINK_TO_MORE_INFO">
     <img src="PLACEHOLDER_FOR_COVID_PORTAL_IMAGE.png" alt="COVID-19 Self Screening Portal">
   </a>
 </p>
+<br>
+
+<div align="center">
+ <b><code><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F39835F0&background=FFE66F00&vCenter=true&random=false&width=435&lines=+Stay+Safe,+Keep+Screening!" alt="Typing SVG" /></a></code></b>
+</div>
+<br>
 
 <br>
 
@@ -78,7 +79,7 @@ The portal automated the process for staff and students to do a self-daily healt
 > - ![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-0078D4?style=for-the-badge&logo=microsoftforms&logoColor=white) **:** For creating dynamic screening questionnaires.
 > - ![Power Automate Icon](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) **:** For automating data collection, analysis, and alerting processes.
 > - ![SharePoint Icon](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) **:** For secure and centralized storage of health screening records and management of access permissions.
-> - ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white) **Custom Integration:** For validating staff and student identities against the organization's database to ensure accurate tracking and reporting.
+> - ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white) **:** For Access Alerts and reporting in case of positive case suspicions.
 
 ## Impact
 
@@ -158,9 +159,10 @@ Design a dynamic health screening questionnaire based on the SA National Health 
 
 
 ## Screenshots of Questionnaire Creation
-![Screenshot 1](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/1.png)
-![Screenshot 2](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/2.png)
-![Screenshot 3](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/3.png)
+
+> ![Screenshot 1](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/1.png)
+> ![Screenshot 2](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/2.png)
+> ![Screenshot 3](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/3.png)
 ![Screenshot 4](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/4.png)
 ![Screenshot 5](https://github.com/TheExpertApprentice/Covid-Screening-Portal/blob/main/images/5.png)
 
